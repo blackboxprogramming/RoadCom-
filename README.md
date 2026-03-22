@@ -1,3 +1,13 @@
+# RoadCom — BlackRoad sovereign internet computer. Self-hostable, free.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 <h3 align="center"><img width="80" alt="Puter.com, The Personal Cloud Computer: All your files, apps, and games in one place accessible from anywhere at any time." src="https://assets.puter.site/puter-logo.png"></h3>
 
 <h3 align="center">The Internet OS! Free, Open-Source, and Self-Hostable.</h3>
